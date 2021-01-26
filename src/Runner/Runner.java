@@ -1,5 +1,4 @@
 package Runner;
-
 import Data.Calculator;
 
 public class Runner{
@@ -9,4 +8,5 @@ public class Runner{
         System.out.println(Calculator.multi(10,5));
         System.out.println(Calculator.div(10,5));
     }
+
 }
